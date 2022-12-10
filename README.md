@@ -15,7 +15,7 @@ Template for creating [Paper](https://papermc.io) Plugins with Paper Userdev.
 ## Versions
 
 - Java Language Version: **17**
-- Minecraft Version: **1.19.2 (change in the build.gradle.kts)**
+- Minecraft Version: **1.19.3 (change in the build.gradle.kts)**
 
 ## Building
 

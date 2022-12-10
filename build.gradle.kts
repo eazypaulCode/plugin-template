@@ -40,7 +40,7 @@ tasks {
 }
 
 dependencies {
-    paperDevBundle("1.19.2-R0.1-SNAPSHOT") // Paper
+    paperDevBundle("1.19.3-R0.1-SNAPSHOT") // Paper
     implementation("io.github.rysefoxx:RyseInventory-Plugin:1.5.2") // RyseInventory Inventory API
 }
 
